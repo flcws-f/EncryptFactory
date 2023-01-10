@@ -1,0 +1,4 @@
+{
+	"need":["base64","base62","hashlib","tkinter","rsa","base128","base91"],
+	"commands":["pip install pybase64","pip install pybase62","pip install hashlib",null,"pip install rsa","pip install base128","pip install base91"]
+}
