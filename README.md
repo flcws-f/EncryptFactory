@@ -1,2 +1,2 @@
 # EncryptFactory
-Use Python for all kinds of encryption.
+使用Python进行各种加密。
